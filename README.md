@@ -1,3 +1,3 @@
 # Heterogeneity-in-Union-using-ML
 
-Thesis project
+Thesis project. For details read pdf file.
